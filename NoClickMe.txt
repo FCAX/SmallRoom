@@ -1,2 +1,3 @@
-﻿Nothing
+﻿
 Unable to save Chinese?
+原来是编码问题，要用utf-8
